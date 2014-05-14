@@ -1,0 +1,11 @@
+#default addhost file
+#HOST="" Host name should not be set here
+IP="127.0.0.1"
+USERNAME="root"
+PW="manager1"
+PROMPT="pad42#/>"
+TRANSPORT="telnet"
+FILETRANSPORT="ftp"
+PLATFORM="aix"
+LOGINTXT=""
+

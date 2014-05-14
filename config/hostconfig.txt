@@ -1,0 +1,22 @@
+#=================================
+#
+# docmd configuration file
+#
+### Login Transport
+#
+# 1. null       Interactive connections are disabled
+# 2. telnet     Use standard telnet
+# 3. ssh        Interactive ssh
+# 4. sshkey     Ssh with a key (key is on the server)
+#
+# Not implemented: null / sshkey 
+# 
+### File-Transfer transport 
+#  
+# 1. null       File-transfer is disabled
+# 2. ftp        Standard ftp transport  
+# 3. sftp       Interactive sftp
+# 4. sftpkey    sftp with a key (key is on the server)
+# 
+# Not implemented: null / sftp / sftpkey
+# 

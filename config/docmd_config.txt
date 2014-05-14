@@ -1,0 +1,30 @@
+# =================================
+#
+# docmd configuration file
+#
+### Login Transport
+#
+# 1. null	File-transfer is disabled
+# 2. telnet   	Use standard telnet
+# 3. ssh  	Interactive ssh
+# 4. sshkey 	Ssh with a key (key is on the server)
+#
+# Not implemented: null / sshkey 
+# 
+### File-Transfer transport 
+#  
+# 1. null	File-transfer is disabled
+# 2. ftp	Standard ftp transport  
+# 3. sftp	Interactive sftp
+# 4. sftpkey    sftp with a key (key is on the server)
+#
+### TODO: automatic/manual prompt 
+#
+# 1. ksh	Sets prompt a dynamically (random) prompt for ksh
+# 2. csh	Sets prompt a dynamically (random) prompt for csh
+# 3. manual	Uses manual prompt (old-way)
+ 
+# Not implemented: null / sftp / sftpkey
+# 
+
+#################################################
